@@ -1,6 +1,6 @@
 ![MasterHead](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Rana</h1>
-<h3 align="center">A Computer Geek from India</h3>
+<h3 align="center">A Computer Science Geek from India</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
 
