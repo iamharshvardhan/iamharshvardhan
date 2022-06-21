@@ -1,21 +1,18 @@
-[![MasterHead](https://www.cuinsight.com/wp-content/uploads/2018/05/bigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg)]
+![MasterHead](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Rana</h1>
 <h3 align="center">A Computer Geek from India</h3>
-(img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif")
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshvardhan&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshvardhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/whoharshvardhan" target="blank"><img src="https://img.shields.io/twitter/follow/whoharshvardhan?logo=twitter&style=for-the-badge" alt="whoharshvardhan" /></a> </p>
+- 🔭 I’m currently working on **A Pong Game.**
 
-- 🔭 I’m currently working on **A Pong Game**
+- 🌱 I’m currently learning **Python/Java.**
 
-- 🌱 I’m currently learning **Python/Java**
+- 🤝 I’m looking for help with **Open source contributions.**
 
-- 🤝 I’m looking for help with **Open source contributions**
+- 📫 How to reach me **ranaharshvardhan52@gmail.com.**
 
-- 📫 How to reach me **ranaharshvardhan52@gmail.com**
-
-- ⚡ Fun fact **I love Running and Philosophy**
+- ⚡ Fun fact **I love Running and Philosophy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
