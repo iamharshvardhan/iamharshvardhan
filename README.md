@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
 
-- 🔭 I’m currently working on **a Pomodoro Timer.**
+- 🔭 I’m currently working on **a Password Manager.**
 
 - 🌱 I’m currently learning **Python/Java.**
 
