@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
 
-- 🔭 I’m currently working on **a Quizzing App.**
+- 🔭 I’m currently working on **a Tinder Swiper.**
 
 - 🌱 I’m currently learning **Python/Java.**
 
