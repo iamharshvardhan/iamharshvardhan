@@ -1,4 +1,4 @@
-![MasterHead](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGkILZDfSqQxA/profile-displaybackgroundimage-shrink_350_1400/0/1662028424061?e=1668038400&v=beta&t=Ve1NCnRgTK7jc3dmd5zcrPecbKXiuwKEfrZTSua87dA)
 <h1 align="center">Hi <img alt="wave" width="35" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Harsh Vardhan Rana</h1>
 <h3 align="center">A Computer Science Nerd and Runner</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
