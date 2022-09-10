@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a Twitter BOT.**
 
-- 🌱 I’m currently learning **Flask.**
+- 🌱 I’m currently learning **Bootstrap.**
 
 - 🤝 I’m looking for help with **Open source contributions.**
 
