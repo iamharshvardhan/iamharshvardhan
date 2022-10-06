@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGkILZDfSqQxA/profile-displaybackgroundimage-shrink_350_1400/0/1662028424061?e=1668038400&v=beta&t=Ve1NCnRgTK7jc3dmd5zcrPecbKXiuwKEfrZTSua87dA)
 <h1 align="center">Hi <img alt="wave" width="35" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Harsh Vardhan Rana</h1>
 <h3 align="center">A Computer Science Nerd and Runner</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif">
 
 - 🔭 I’m currently working on **a Dating site**. 
 - 🌱 I’m currently learning **Bootstrap** and working on my **Problem Solving skills**. 
