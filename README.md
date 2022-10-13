@@ -1,4 +1,5 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGkILZDfSqQxA/profile-displaybackgroundimage-shrink_350_1400/0/1662028424061?e=1668038400&v=beta&t=Ve1NCnRgTK7jc3dmd5zcrPecbKXiuwKEfrZTSua87dA)
+[![@iamharshvardhan's Holopin board](https://holopin.me/iamharshvardhan)](https://holopin.io/@iamharshvardhan)
+
 <h1 align="center">Hi <img alt="wave" width="35" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Harsh Vardhan Rana</h1>
 <h3 align="center">A Computer Science Nerd and Runner</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif">
