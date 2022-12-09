@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGkILZDfSqQxA/profile-displaybackgroundimage-shrink_350_1400/0/1662028424061?e=1668038400&v=beta&t=Ve1NCnRgTK7jc3dmd5zcrPecbKXiuwKEfrZTSua87dA)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGkILZDfSqQxA/profile-displaybackgroundimage-shrink_350_1400/0/1662028424061?e=1675900800&v=beta&t=wENZmUFkan1B12GpjS7tQoXdhgeRayGvPTxceX-AR40)
 
 <h1 align="center">Hi <img alt="wave" width="35" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Harsh Vardhan Rana</h1>
 <h3 align="center">A Computer Science Nerd and Runner</h3>
@@ -25,8 +25,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamharshvardhan&show_icons=true&count_private=true&theme=radical)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamharshvardhan&theme=radical)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamharshvardhan)  
 
 ![Profile views](https://gpvc.arturio.dev/iamharshvardhan)  
 
