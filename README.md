@@ -28,4 +28,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/iamharshvardhan)  
 
-[![@iamharshvardhan's Holopin board](https://holopin.me/iamharshvardhan)](https://holopin.io/@iamharshvardhan)
+[![An image of @iamharshvardhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamharshvardhan)](https://holopin.io/@iamharshvardhan)
