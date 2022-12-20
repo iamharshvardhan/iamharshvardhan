@@ -4,8 +4,8 @@
 <h3 align="center">A Computer Science Nerd and Runner</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif">
 
-- 🔭 I’m currently working on **a Dating site**. 
-- 🌱 I’m currently learning **Bootstrap** and working on my **Problem Solving skills**. 
+- 🔭 I’m currently working on **Face Recognition System**. 
+- 🌱 I’m currently learning **Django** and working on my **Problem Solving skills**. 
 - 🤔 I’m looking for help with **open source contributions**.
 - 💬 Ask me about  **Python and Java**. 
 - 📫 How to reach me: **ranaharshvardhan52@gmail.com**. 
