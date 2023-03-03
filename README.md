@@ -1,11 +1,9 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGkILZDfSqQxA/profile-displaybackgroundimage-shrink_350_1400/0/1662028424061?e=1675900800&v=beta&t=wENZmUFkan1B12GpjS7tQoXdhgeRayGvPTxceX-AR40)
-
 <h1 align="center">Hi <img alt="wave" width="35" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif">, I'm Harsh Vardhan Rana</h1>
 <h3 align="center">A Computer Science Nerd and Runner</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif">
+<img src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47p4ejhqc581ne2lv2zu6zel4cnchc4tr8ps3llrv5&rid=giphy.gif&ct=g" width=250 align="right">
 
 - 🔭 I’m currently building a **Face Recognition System**. 
-- 🌱 I’m currently learning **Django** and working on my **Problem Solving skills**. 
+- 🌱 I’m currently learning **Data Science** and working on my **Problem Solving skills**. 
 - 🤔 I’m looking for help with **open source contributions**.
 - 💬 Ask me about  **Python and Java**. 
 - 📫 How to reach me: **ranaharshvardhan52@gmail.com**. 
