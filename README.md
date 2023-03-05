@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img alt="wave" width="28" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</h2>
 <h4 align="center">A Computer Science Nerd</h4>
 
-- 🌱 I’m currently learning **Data Science** and working on my **Problem Solving skills**. 
+- 🌱 I’m currently learning **Data Science** and working on my **Problem Solving Skills**. 
 - 📫 How to reach me: **ranaharshvardhan52@gmail.com**. 
 
 <h5 align="left">Connect with me:</h5>
