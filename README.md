@@ -1,4 +1,4 @@
-<h3 align="center">Hi <img alt="wave" width="28" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</h3>
+<h3 align="center">Hi <img alt="wave" width="22" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</h3>
 <h4 align="center">A Computer Science Nerd</h4>
 
 - 🌱 I’m currently learning **Machine Learning** and working on my **Problem Solving Skills**. 
