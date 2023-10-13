@@ -1,7 +1,7 @@
-<center><h1> Hi <img alt="wave" width="32" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</h1></center>
-<center><h3>A Computer Science Nerd</h3></center>
+<h1 align="center"><b> Hi <img alt="wave" width="32" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</b></h1>
+<h3 align="center"><b>A Computer Science Nerd</b></h3>
 
-<center><img src="https://media1.giphy.com/media/yvWVQmvkjEv43rlBvW/giphy.gif?cid=ecf05e47aauocjsqz4v2ykjq8b6owocn74i6gjoplssdh8t7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></center>
+<img src="https://media1.giphy.com/media/yvWVQmvkjEv43rlBvW/giphy.gif?cid=ecf05e47aauocjsqz4v2ykjq8b6owocn74i6gjoplssdh8t7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Machine Learning** and working on my **Problem Solving Skills**. 
 - 📫 How to reach me: **ranaharshvardhan52@gmail.com**. 
