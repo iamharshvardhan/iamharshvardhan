@@ -1,13 +1,5 @@
-<h1 align="center"><b> Hi <img alt="wave" width="32" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</b></h1>
-<h3 align="center"><b>A Computer Science Nerd</b></h3>
-
-<img src="https://media1.giphy.com/media/yvWVQmvkjEv43rlBvW/giphy.gif?cid=ecf05e47aauocjsqz4v2ykjq8b6owocn74i6gjoplssdh8t7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h3 align="center"><b> Hi <img alt="wave" width="32" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png">, I'm Harsh Vardhan Rana</b></h1>
+<h4 align="center"><b>A Computer Science Nerd</b></h3>
 
 - 🌱 I’m currently learning **Machine Learning** and working on my **Problem Solving Skills**. 
-- 📫 How to reach me: **ranaharshvardhan52@gmail.com**. 
-
-#### Connect with me:
-<p align="left">
-<a href="https://twitter.com/whoharshvardhan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="whoharshvardhan" width="30" /></a>
-<a href="https://linkedin.com/in/iamharshvardhan" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="iamharshvardhan" width="30" /></a>
-</p>
+- 📫 How to reach me: **ranaharshvardhan52@gmail.com** | **https://twitter.com/whoharshvardhan**. 
