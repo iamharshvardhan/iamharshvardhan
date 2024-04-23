@@ -1,3 +1,3 @@
-<h3 align="center"><b> Hi <img alt="wave" width="25" src="https://cdn-icons-png.flaticon.com/512/9267/9267412.png"></b></h1>
+<h3 align="center"><b> Musings of a Programmer.</b>
 
-- 📫 reach me at: **ranaharshvardhan52@gmail.com** | **https://twitter.com/whoharshvardhan**. 
+<img alt="wave" width="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF0eWUxdHNheHhsYmltNzY5ZHgzc3V2cjdpdW95ejVkY2RwbHBxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></b></h3>
